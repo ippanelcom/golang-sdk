@@ -7,7 +7,7 @@ The ippanel Go SDK provides a simple client to interact with the ippanel API for
 Use Go modules to install the SDK:
 
 ```bash
-go get github.com/ippanel/golang-sdk/ippanel
+go get github.com/ippanelcom/golang-sdk@v1.0.0
 ```
 
 ## Usage
